@@ -7,3 +7,8 @@ class PDFEditor:
     
     def dupa():
         pass
+    
+    def not_formated(a, v, asd
+                     
+                     ):
+        return 0
